@@ -8,8 +8,8 @@ subtitle: 'hippo has its own'
 description: ''
 keywords:
 author: Hippo Lin
-language: zh-TW
-timezone: 'GMT+8'
+language: en
+timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
