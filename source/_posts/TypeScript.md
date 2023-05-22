@@ -1,7 +1,7 @@
 ---
 title: TypeScript 5.0 Deopt Explorer
 date: 2023-05-22 23:44:54
-tags:
+tags: typescript
 ---
 ## Inline Cache
 在靜態型別（statically typed）與動態型別（dynamically typed）語言中，透過cache先前的編譯結果，減少runtime以達到優化的方法調用（methods calling ）跟屬性查找（property lookup）。透過遍歷一個物件的原型鍊（prototype chain），並且建立cache，可以在之後對於相同的查找減少查詢時間。補充：javascript VM
